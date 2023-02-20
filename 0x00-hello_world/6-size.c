@@ -1,6 +1,7 @@
-#include <stdio>
+#include <stdio.h>
 /**
 * main - A program that ptints ths size of a varies computer types
+*
 * Return: Always 0 (success)
 */
 int main(void)
